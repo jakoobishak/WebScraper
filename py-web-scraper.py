@@ -1,5 +1,6 @@
-from bs4 import BeautifulSoup
 import requests
+from bs4 import BeautifulSoup
+
 
 source = requests.get("https://tvods.se/v/lirik.html").text
 
