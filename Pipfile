@@ -9,9 +9,8 @@ black = "*"
 
 [packages]
 requests = "*"
-python3-bs4 = "*"
-beatifulsoup4 = "*"
 beautifulsoup4 = "*"
+lxml = "*"
 
 [requires]
 python_version = "3.8"
